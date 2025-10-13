@@ -1,6 +1,4 @@
-@import "tailwindcss/preflight";
-@tailwind utilities;
-@tailwind utilities;
+@import "tailwindcss";
 
 :root {
   /* Black/Dark theme colors */
